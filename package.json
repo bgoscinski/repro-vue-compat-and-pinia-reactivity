@@ -4,12 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest run"
   },
   "dependencies": {
     "@vue/compat": "^3.4.15",
-    "pinia": "^2.1.7",
-    "vue": "^3.4.15"
+    "vue": "^3.4.15",
+    "vue-demi": "^0.14.7"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.3",
